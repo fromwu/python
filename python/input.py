@@ -1,2 +1,3 @@
-name=input("yourNmae")
-print("hello",name)
+names = ['Michael', 'Bob', 'Tracy']
+for name in names:
+    print(name)
