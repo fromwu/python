@@ -1,2 +1,2 @@
-a=input("yourNmae")
-print(a)
+name=input("yourNmae")
+print("hello",name)
