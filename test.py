@@ -1,2 +1,4 @@
 print(300)
-input("请输入")
+a=input("please input your name:")
+print(a)
+
